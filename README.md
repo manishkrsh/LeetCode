@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/manishkrsh/LeetCode/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manishkrsh/LeetCode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manishkrsh/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manishkrsh/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
