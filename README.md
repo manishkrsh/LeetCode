@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/manishkrsh/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/manishkrsh/LeetCode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/manishkrsh/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/manishkrsh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/manishkrsh/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/manishkrsh/LeetCode/tree/master/0231-power-of-two) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
