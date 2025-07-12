@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manishkrsh/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/manishkrsh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manishkrsh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/manishkrsh/LeetCode/tree/master/0046-permutations) |
@@ -47,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/manishkrsh/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
