@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/manishkrsh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/manishkrsh/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/manishkrsh/LeetCode/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/manishkrsh/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
 ## Backtracking
@@ -54,9 +55,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manishkrsh/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manishkrsh/LeetCode/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
