@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/manishkrsh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/manishkrsh/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/manishkrsh/LeetCode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkrsh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/manishkrsh/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manishkrsh/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkrsh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/manishkrsh/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
 ## Memoization
