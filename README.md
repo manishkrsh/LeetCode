@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/manishkrsh/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/manishkrsh/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/manishkrsh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/manishkrsh/LeetCode/tree/master/0189-rotate-array) |
