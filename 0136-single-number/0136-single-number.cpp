@@ -1,5 +1,3 @@
-#include <vector>
-#include <numeric> // For std::accumulate
 
 class Solution {
 public:
