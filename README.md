@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/manishkrsh/LeetCode/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/manishkrsh/LeetCode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
+| [0540-single-element-in-a-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishkrsh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
