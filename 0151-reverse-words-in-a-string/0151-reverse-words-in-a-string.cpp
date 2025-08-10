@@ -1,29 +1,29 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string ans;
-        string word;
+        // Step 1: Remove extra spaces
         int n = s.size();
-        
-        for (int i = n - 1; i >= 0; i--) {
-            if (s[i] != ' ') {
-                word.push_back(s[i]);
+        int idx = 0;
+        for (int i = 0; i < n; i++) {
+            if (s[i] != ' ' || (idx > 0 && s[idx - 1] != ' ')) {
+                s[idx++] = s[i];
             }
-            if (s[i] == ' ' && !word.empty()) {
-                reverse(word.begin(), word.end());
-                if (!ans.empty()) ans.push_back(' '); // add space only between words
-                ans += word;
-                word.clear();
+        }
+        if (idx > 0 && s[idx - 1] == ' ') idx--; // remove trailing space
+        s.resize(idx);
+
+        // Step 2: Reverse the entire string
+        reverse(s.begin(), s.end());
+
+        // Step 3: Reverse each word
+        int start = 0;
+        for (int end = 0; end <= s.size(); end++) {
+            if (end == s.size() || s[end] == ' ') {
+                reverse(s.begin() + start, s.begin() + end);
+                start = end + 1;
             }
         }
 
-        // Add the last word (first in original string)
-        if (!word.empty()) {
-            reverse(word.begin(), word.end());
-            if (!ans.empty()) ans.push_back(' ');
-            ans += word;
-        }
-
-        return ans;
+        return s;
     }
 };
