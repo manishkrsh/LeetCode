@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/manishkrsh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishkrsh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/manishkrsh/LeetCode/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/manishkrsh/LeetCode/tree/master/0443-string-compression) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/manishkrsh/LeetCode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/manishkrsh/LeetCode/tree/master/0443-string-compression) |
 | [1250-longest-common-subsequence](https://github.com/manishkrsh/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
