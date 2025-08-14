@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0206-reverse-linked-list](https://github.com/manishkrsh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/manishkrsh/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/manishkrsh/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/manishkrsh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishkrsh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/manishkrsh/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/manishkrsh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/manishkrsh/LeetCode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/manishkrsh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manishkrsh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/manishkrsh/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/manishkrsh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/manishkrsh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Matrix
 |  |
@@ -184,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishkrsh/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/manishkrsh/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
