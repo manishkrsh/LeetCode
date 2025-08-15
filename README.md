@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/manishkrsh/LeetCode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/manishkrsh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2662-check-knight-tour-configuration](https://github.com/manishkrsh/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishkrsh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/manishkrsh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Tree
 |  |
 | ------- |
