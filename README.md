@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/manishkrsh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manishkrsh/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/manishkrsh/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/manishkrsh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/manishkrsh/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manishkrsh/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manishkrsh/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manishkrsh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/manishkrsh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishkrsh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/manishkrsh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/manishkrsh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2662-check-knight-tour-configuration](https://github.com/manishkrsh/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
