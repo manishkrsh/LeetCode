@@ -218,11 +218,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishkrsh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/manishkrsh/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/manishkrsh/LeetCode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkrsh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishkrsh/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/manishkrsh/LeetCode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -243,4 +245,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/manishkrsh/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/manishkrsh/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/manishkrsh/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
