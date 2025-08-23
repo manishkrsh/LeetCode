@@ -13,11 +13,13 @@ public:
     bool isPalindrome(ListNode* head) {
         if (!head || !head->next) return true;
 
+        // Step 1: Find middle
         ListNode *slow = head, *fast = head;
-        while(fast->next!=NULL || fast!=NULL){
-            slow=slow->next;
-            fast=fast->next->next;
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
+
         // Step 2: Reverse second half
         ListNode* prev = NULL;
         ListNode* curr = slow;
@@ -28,7 +30,8 @@ public:
             curr = nextNode;
         }
 
-       ListNode* first = head;
+        // Step 3: Compare halves
+        ListNode* first = head;
         ListNode* second = prev; // head of reversed second half
         while (second != NULL) {
             if (first->val != second->val) return false;
