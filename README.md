@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/manishkrsh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/manishkrsh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manishkrsh/LeetCode/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/manishkrsh/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/manishkrsh/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/manishkrsh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/manishkrsh/LeetCode/tree/master/0075-sort-colors) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/manishkrsh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manishkrsh/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/manishkrsh/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/manishkrsh/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/manishkrsh/LeetCode/tree/master/0242-valid-anagram) |
