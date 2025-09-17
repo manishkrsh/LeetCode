@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/manishkrsh/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/manishkrsh/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/manishkrsh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/manishkrsh/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/manishkrsh/LeetCode/tree/master/0443-string-compression) |
 | [1250-longest-common-subsequence](https://github.com/manishkrsh/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/manishkrsh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkrsh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
