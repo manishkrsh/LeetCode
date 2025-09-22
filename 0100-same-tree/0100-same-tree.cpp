@@ -12,19 +12,10 @@
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        // Case 1: Both nodes are null → trees match here
-        if (p == nullptr && q == nullptr)
-            return true;
-
-        // Case 2: One is null, the other is not → mismatch
+        
         if (p == nullptr || q == nullptr)
-            return false;
+            return p==q;
 
-        // Case 3: Values are different → mismatch
-        if (p->val != q->val)
-            return false;
-
-        // Recurse on left and right subtrees
-        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right) && (p->val == q->val);
     }
 };
