@@ -11,16 +11,21 @@
  */
 class Solution {
 public:
-    bool isIdentical(TreeNode* p, TreeNode* q){
-        if (p == NULL || q == NULL)
-            return p==q;
-
-        return isIdentical(p->left, q->left) && isIdentical(p->right, q->right) && (p->val == q->val);
+    bool isIdentical(TreeNode* p, TreeNode* q) {
+        if (!p || !q)
+            return p == q;
+        return (p->val == q->val) &&
+               isIdentical(p->left, q->left) &&
+               isIdentical(p->right, q->right);
     }
+
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(root == NULL || subRoot == NULL){
-            return root==subRoot;
-        }
-        return (isIdentical(root,subRoot) || isIdentical(root->left, subRoot) || isIdentical(root->right, subRoot));
+        if (!root) return false;  // empty tree cannot contain a non-empty subtree
+
+        // if trees match at this node, return true
+        if (isIdentical(root, subRoot)) return true;
+
+        // otherwise, recursively check left and right subtrees
+        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
     }
 };
