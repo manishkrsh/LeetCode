@@ -17,13 +17,10 @@ public:
 
         return isIdentical(p->left, q->left) && isIdentical(p->right, q->right) && (p->val == q->val);
     }
-
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(root == NULL || subRoot == NULL){
             return root==subRoot;
         }
-        if(root->val == subRoot-> val && isIdentical(root,subRoot))return true;
-
-        return isSubtree(root->left,subRoot) || isSubtree(root->right, subRoot);
+        return (isIdentical(root,subRoot) || isIdentical(root->left, subRoot) || isIdentical(root->right, subRoot));
     }
 };
