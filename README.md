@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/manishkrsh/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/manishkrsh/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manishkrsh/LeetCode/tree/master/0090-subsets-ii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/manishkrsh/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/manishkrsh/LeetCode/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/manishkrsh/LeetCode/tree/master/0909-stone-game) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/manishkrsh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkrsh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Greedy
 |  |
 | ------- |
@@ -334,4 +338,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
