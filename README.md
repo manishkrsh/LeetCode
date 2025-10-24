@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1250-longest-common-subsequence](https://github.com/manishkrsh/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkrsh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/manishkrsh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkrsh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/manishkrsh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishkrsh/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/manishkrsh/LeetCode/tree/master/0937-online-stock-span) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/manishkrsh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkrsh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
