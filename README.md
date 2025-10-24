@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manishkrsh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/manishkrsh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/manishkrsh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkrsh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manishkrsh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/manishkrsh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manishkrsh/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishkrsh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/manishkrsh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/manishkrsh/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/manishkrsh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/manishkrsh/LeetCode/tree/master/0049-group-anagrams) |
