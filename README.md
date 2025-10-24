@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishkrsh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/manishkrsh/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/manishkrsh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/manishkrsh/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/manishkrsh/LeetCode/tree/master/0125-valid-palindrome) |
