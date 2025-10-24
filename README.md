@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/manishkrsh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/manishkrsh/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/manishkrsh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkrsh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -163,10 +164,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/manishkrsh/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/manishkrsh/LeetCode/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/manishkrsh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/manishkrsh/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/manishkrsh/LeetCode/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1250-longest-common-subsequence](https://github.com/manishkrsh/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkrsh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkrsh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -284,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/manishkrsh/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -316,4 +321,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/manishkrsh/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
