@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2662-check-knight-tour-configuration](https://github.com/manishkrsh/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/manishkrsh/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/manishkrsh/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
