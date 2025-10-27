@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manishkrsh/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3412-permutation-difference-between-two-strings](https://github.com/manishkrsh/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkrsh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/manishkrsh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkrsh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3412-permutation-difference-between-two-strings](https://github.com/manishkrsh/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Linked List
 |  |
 | ------- |
