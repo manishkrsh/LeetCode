@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkrsh/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/manishkrsh/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/manishkrsh/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/manishkrsh/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/manishkrsh/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3311-ant-on-the-boundary](https://github.com/manishkrsh/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/manishkrsh/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkrsh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkrsh/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/manishkrsh/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/manishkrsh/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3311-ant-on-the-boundary](https://github.com/manishkrsh/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Stack
 |  |
