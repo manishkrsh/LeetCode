@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/manishkrsh/LeetCode/tree/master/0909-stone-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkrsh/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/manishkrsh/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/manishkrsh/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/manishkrsh/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/manishkrsh/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/manishkrsh/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/manishkrsh/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Math
 |  |
 | ------- |
