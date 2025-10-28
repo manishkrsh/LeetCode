@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/manishkrsh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishkrsh/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/manishkrsh/LeetCode/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/manishkrsh/LeetCode/tree/master/0740-delete-and-earn) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/manishkrsh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/manishkrsh/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/manishkrsh/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/manishkrsh/LeetCode/tree/master/0724-find-pivot-index) |
 | [3311-ant-on-the-boundary](https://github.com/manishkrsh/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Design
 |  |
