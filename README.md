@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/manishkrsh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishkrsh/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0697-degree-of-an-array](https://github.com/manishkrsh/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/manishkrsh/LeetCode/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/manishkrsh/LeetCode/tree/master/0740-delete-and-earn) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/manishkrsh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/manishkrsh/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/manishkrsh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/manishkrsh/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/manishkrsh/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/manishkrsh/LeetCode/tree/master/0740-delete-and-earn) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkrsh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
