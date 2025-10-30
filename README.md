@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/manishkrsh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manishkrsh/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/manishkrsh/LeetCode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/manishkrsh/LeetCode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/manishkrsh/LeetCode/tree/master/0319-bulb-switcher) |
 | [0909-stone-game](https://github.com/manishkrsh/LeetCode/tree/master/0909-stone-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkrsh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manishkrsh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/manishkrsh/LeetCode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/manishkrsh/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/manishkrsh/LeetCode/tree/master/0740-delete-and-earn) |
 | [0909-stone-game](https://github.com/manishkrsh/LeetCode/tree/master/0909-stone-game) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/manishkrsh/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manishkrsh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/manishkrsh/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/manishkrsh/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
 | [2662-check-knight-tour-configuration](https://github.com/manishkrsh/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Hash Table
