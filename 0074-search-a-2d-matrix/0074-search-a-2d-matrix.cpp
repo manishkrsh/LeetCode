@@ -6,12 +6,12 @@ public:
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
-            int row = mid / n;
-            int col = mid % n;
+            int row = mid/m;
+            int col = mid%n;
 
-            if (mat[row][col] == target) return true;
-            else if (mat[row][col] < target) low = mid + 1;
-            else high = mid - 1;
+            if(mat[row][col]==target)return true;
+            else if (mat[row][col]>=target) low= mid+1;
+            else high=mid-1;
         }
 
         return false;
