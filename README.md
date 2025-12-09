@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/manishkrsh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/manishkrsh/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/manishkrsh/LeetCode/tree/master/0909-stone-game) |
+| [1901-find-a-peak-element-ii](https://github.com/manishkrsh/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/manishkrsh/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manishkrsh/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkrsh/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkrsh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/manishkrsh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/manishkrsh/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1901-find-a-peak-element-ii](https://github.com/manishkrsh/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/manishkrsh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishkrsh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/manishkrsh/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2662-check-knight-tour-configuration](https://github.com/manishkrsh/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/manishkrsh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
