@@ -1,32 +1,32 @@
 class Solution {
 public:
-    char o = '(', c = ')';
-    set<string> st;
+    vector<string> ans;
 
-    void backtrack(string &s, int n, int m) {
-        if (n < 0 || m < 0) return;
-
-        if (n == 0 && m == 0) {
-            st.insert(s);
+    void backtrack(string &s, int open, int close, int n) {
+        // If the current string is complete
+        if (s.size() == 2 * n) {
+            ans.push_back(s);
             return;
         }
 
-        if (n > 0) {
-            s.push_back(o);
-            backtrack(s, n - 1, m);   // ❌ removed: m = n;
+        // We can always add '(' if we still have remaining open parentheses
+        if (open < n) {
+            s.push_back('(');
+            backtrack(s, open + 1, close, n);
             s.pop_back();
         }
 
-        if (m > 0 && m > n) {
-            s.push_back(c);
-            backtrack(s, n, m - 1);
+        // We can add ')' only if we have more '(' used than ')'
+        if (close < open) {
+            s.push_back(')');
+            backtrack(s, open, close + 1, n);
             s.pop_back();
         }
     }
 
     vector<string> generateParenthesis(int n) {
         string s = "";
-        backtrack(s, n, n);
-        return vector<string>(st.begin(), st.end());
+        backtrack(s, 0, 0, n);
+        return ans;
     }
 };
