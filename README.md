@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/manishkrsh/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/manishkrsh/LeetCode/tree/master/0216-combination-sum-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/manishkrsh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/manishkrsh/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/manishkrsh/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/manishkrsh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/manishkrsh/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/manishkrsh/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkrsh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/manishkrsh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkrsh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/manishkrsh/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-permutation-difference-between-two-strings](https://github.com/manishkrsh/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Linked List
 |  |
