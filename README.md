@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/manishkrsh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manishkrsh/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/manishkrsh/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/manishkrsh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/manishkrsh/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/manishkrsh/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/manishkrsh/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/manishkrsh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/manishkrsh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manishkrsh/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/manishkrsh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/manishkrsh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkrsh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manishkrsh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manishkrsh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/manishkrsh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manishkrsh/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishkrsh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
