@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/manishkrsh/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/manishkrsh/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/manishkrsh/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/manishkrsh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/manishkrsh/LeetCode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/manishkrsh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishkrsh/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -379,12 +380,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/manishkrsh/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/manishkrsh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/manishkrsh/LeetCode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/manishkrsh/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [3311-ant-on-the-boundary](https://github.com/manishkrsh/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/manishkrsh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/manishkrsh/LeetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
